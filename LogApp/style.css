@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    color: blue;
+    font-weight: bold;
+}
+
+#box1 {
+    display: flex;
+    height: 95vh;
+    align-items: center;
+    justify-content: center;
+    background-image: url("fire.jpg");
+    background-size: contain;
+    border: double;
+    border-width: thick;
+    border-radius: 15px;
+}
+#box2 {
+    width: 50%;
+    height: 50%;
+    text-align: center ;
+    font-family: "Comic Sans MS","Bookman Old Style";
+    font-size: 120%;
+    color: lime;
+    background-image: url("nightSky.jpg");
+    background-size: contain;
+    border: double;
+    border-width: inherit;
+    border-radius: 15px;
+}
+
+form {
+    position: relative;
+    font-size: 80%;
+    width: 80%;
+    height: 80%;
+}
+
+
+
+
+
+
